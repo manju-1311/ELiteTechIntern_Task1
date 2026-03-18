@@ -1,1 +1,1 @@
-# EliteTech-Task1-ETL-Pipeline
+# EliteTechIntern-Task1-ETL-Pipeline
